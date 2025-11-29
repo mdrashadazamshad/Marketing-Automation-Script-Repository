@@ -1,0 +1,10 @@
+marketing-automation-script/
+├── scripts/
+│   ├── main.py
+│   └── utils.py
+├── config/
+│   └── config.json
+├── README.md
+├── requirements.txt
+├── .gitignore
+└── LICENSE
