@@ -1,0 +1,2 @@
+# Marketing Automation Script Repository
+A versatile Marketing Automation Script designed for digital marketers to streamline repetitive tasks, manage campaigns, and improve workflow efficiency. Built with Python or JavaScript, it can automate email sequences, social media posting, lead generation, and reporting. Ideal for saving time, increasing productivity, and scaling marketing efforts with minimal manual work.
