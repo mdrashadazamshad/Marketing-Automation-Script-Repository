@@ -1,0 +1,10 @@
+
+---
+
+## **.gitignore (Lua format)**
+
+```lua
+return {
+    "__pycache__/",
+    ".env"
+}
